@@ -1,7 +1,7 @@
 import React from 'react'
 
 export const NoPage = () => {
-  return (
-    <div>NoPage</div>
-  )
+    return (
+        <div>NoPage</div>
+    )
 }

@@ -1,7 +1,8 @@
 import React from 'react'
 
 export const WorkerTask = () => {
-  return (
-    <div>WorkerTask</div>
-  )
+    return (
+        <div>WorkerTask</div>
+    )
 }
+    
